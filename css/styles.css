@@ -352,7 +352,7 @@ a:hover {
 }
 .copyright {
 	color: #FFF4F4;
-	background: #f5ffe0; <!-- ini1 -->
+	background: #87CEFA; <!-- ini1 -->
 	padding: 20px 0;
 }
 #top {
@@ -1270,7 +1270,7 @@ nav#filter li {
 }
 .parlex-back {
 	padding: 30px 0;
-	background-color: rgba(245, 255, 224, 1); <!-- ini1 -->
+	background-color: rgba(135, 206, 250, 1); <!-- ini1 -->
 	color: #515050;
 }
 .parlex-back .heading p {
